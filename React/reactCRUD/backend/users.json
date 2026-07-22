@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1784133216924,
+    "name": "Ion",
+    "surname": "Botnari",
+    "email": "ion@demo.com",
+    "passwordHash": "$2b$10$W5Ccbvn/HA4q.L3Clbr4hukrNHy6WWemMMFT3ZeO98YOB4zIvEL66",
+    "photo": "1784133216838-930693051.png",
+    "createdAt": "2026-07-15T16:33:36.924Z"
+  },
+  {
+    "id": 1784655158170,
+    "name": "Andrei",
+    "surname": "Munteanu",
+    "email": "asda@gmail.com",
+    "passwordHash": "$2b$10$I1HX271mcWwv4EbsL85C6.qiwsvDLzj/Im50va/Wdis.mGGj6BgF6",
+    "photo": "1784655158045-327565919.jpg",
+    "createdAt": "2026-07-21T17:32:38.170Z"
+  },
+  {
+    "id": 1784655213652,
+    "name": "Mihai",
+    "surname": "Banari",
+    "email": "aaaa@gmail.com",
+    "passwordHash": "$2b$10$rNm.NFe1Lfq3aXM6W9/y4Oux0w7YLuBZybgSZqQEvz04spHh2X8Ke",
+    "photo": "1784655213543-188355709.jpg",
+    "createdAt": "2026-07-21T17:33:33.652Z"
+  }
+]
